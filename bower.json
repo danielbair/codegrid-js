@@ -1,0 +1,21 @@
+{
+  "name": "codegrid-js",
+  "version": "0.0.2",
+  "main": "src/codegrid.js",
+  "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+  ],
+  "dependencies":{
+  },
+  "devDependencies": {
+  },
+}
