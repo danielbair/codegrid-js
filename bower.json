@@ -18,4 +18,12 @@
   },
   "devDependencies": {
   },
+ "homepage": "https://github.com/hlaw/codegrid-js/",
+ "description": "Javascript function to query country code from coordinates",
+ "author": "hlaw <hhclaw.eb@gmail.com>",
+ "license": "WTFPL",
+ "keywords": [
+    "codegrid",
+    "openstreetmap"
+  ]
 }
